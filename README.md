@@ -24,7 +24,7 @@ winget install --id Git.Git -e --source winget
 npm install -g heroku
 ```
 
--Firebase-tools
+- Firebase-tools
 ```html
 npm install -g firebase-tools
 ```
